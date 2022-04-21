@@ -1,6 +1,6 @@
-# Titulo
+# Imperio otomano
 texto
 
 
-# Probando Git Hub
-texto2
+# Imperio otomano
+El Imperio otomano fue un Estado multiétnico gobernado por la dinastía osmanlí. 
