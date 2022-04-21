@@ -18,3 +18,8 @@ https://docs.google.com/presentation/d/e/2PACX-1vSjpcbVOsIKEo7kDdi5l8YfYB0aTHPER
 |-----------|-----------|-----------|
 | Diego | Martin | Ignacio |
 
+
+
+
+## CREAR O SUBIR ARCHIVOS
+![image](https://user-images.githubusercontent.com/100420113/164486043-83babec9-2ece-4392-809a-e05bef92862a.png)
