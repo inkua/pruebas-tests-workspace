@@ -1,7 +1,6 @@
 
 
-## Esto es un subtitulo
-romina preto
+
 
 
 ``` 
