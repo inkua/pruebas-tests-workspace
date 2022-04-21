@@ -1,4 +1,7 @@
-# PEQUEÑA TUTORIAL DE MARKDOWN para archivos ".md"
+# Este es un repositorio para realizar pruebas.
+No tengan miedo en apretar todos los botones y modificar todo lo que quieran. 
+
+### PEQUEÑA TUTORIAL DE MARKDOWN para archivos ".md"
 
 # Un # es Titulo
 Nada es texto normal
