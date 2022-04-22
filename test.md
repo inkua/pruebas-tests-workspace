@@ -1,6 +1,6 @@
-# Titulo
+# Imperio otomano
 texto
 
 
-# Titulo 2
-texto2
+# Imperio otomano
+El Imperio otomano fue un Estado multiétnico gobernado por la dinastía osmanlí. 
